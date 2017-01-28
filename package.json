@@ -1,0 +1,8 @@
+{
+  "name": "pug-hello",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.2.0"
+  }
+}
